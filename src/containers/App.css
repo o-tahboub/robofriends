@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Bungee-Regular';
+    src: url('../assets/fonts/Bungee-Regular.ttf');
+}
+
+h1 {
+    font-family: 'Bungee-Regular';
+    font-weight: 100;
+    color: #0ccac4
+}
